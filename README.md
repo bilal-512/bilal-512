@@ -82,11 +82,9 @@ CS student at Namal University, Pakistan. I build games in Unity and write way t
 I'm open to **internships** — game dev, backend, or full-stack. I'm still a student so I'm not chasing a full-time role, but I work hard, I ship things, and I learn fast. If that sounds useful to you, reach out.
 
 
-
-## Get in touch
-
 📧 [danianbilal512@gmail.com](mailto:danianbilal512@gmail.com)  
 🎮 [CannonMergeGame APK](https://github.com/bilal-512/CannonMergeGame/releases/download/Game/InternDemo.apk) — download and play if you're curious what I build
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danianbilal512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbilal512/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bilal-512)
