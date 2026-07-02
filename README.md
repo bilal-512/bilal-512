@@ -18,7 +18,6 @@ CS student at Namal University, Pakistan. I build games in Unity and write way t
 
 ## What I'm working on
 
-**[CannonMergeGame](https://github.com/bilal-512/CannonMergeGame)** — A cannon merge tower defence game built in Unity 6 for Android. Has a playable APK if you want to try it. This is my main project right now.
 
 **[Food-Delivery](https://github.com/bilal-512/Food-Delivery)** — Full MERN stack food ordering app with JWT auth and Stripe payments. [Live demo here.](https://food-delivery-frontend-s2l9.onrender.com/)
 
