@@ -18,10 +18,34 @@ CS student at Namal University, Pakistan. I build games in Unity and write way t
 
 ## What I'm working on
 
+**[A320SimulationV2](https://github.com/bilal-512)** — Real-time Qt6/C++ simulation of the Airbus A320 pressure refuelling system: accurate tank/electrical-bus/valve-sequencing logic with a live animated schematic.
+
+**[Network-Monitor](https://github.com/bilal-512)** — Modular C++20 console app for parsing network logs, detecting threats (rate limits, blocked IPs, suspicious auth, traffic spikes), and generating CSV/TXT security reports.
+
+**[ludo_game](https://github.com/bilal-512/ludo_game)** — 2D Ludo engine built with OpenGL 3.3 + GLFW/GLAD for a Data Structures & Algorithms course — circular linked lists, graphs, stacks, and queues driving real gameplay.
+
+**[HateSpeechRecognizer](https://github.com/bilal-512/HateSpeechRecognizer)** — Python NLP classifier combining CFG/CNF, CYK parsing, and NFA→DFA subset construction, with a full `rich`-powered terminal UI, for a Theory of Automata project.
 
 **[Food-Delivery](https://github.com/bilal-512/Food-Delivery)** — Full MERN stack food ordering app with JWT auth and Stripe payments. [Live demo here.](https://food-delivery-frontend-s2l9.onrender.com/)
 
 **[JokeHub](https://github.com/bilal-512/JokeHub)** — A RESTful API for storing and serving jokes. Built with Node, Express, and MongoDB.
+
+<p align="center">
+  <a href="https://github.com/bilal-512">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=A320SimulationV2&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/bilal-512">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=Network-Monitor&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/bilal-512/ludo_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=ludo_game&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/bilal-512/HateSpeechRecognizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=HateSpeechRecognizer&theme=github_dark&hide_border=true" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/bilal-512/JokeHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=JokeHub&theme=github_dark&hide_border=true" />
