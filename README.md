@@ -22,15 +22,6 @@ CS student at Namal University, Pakistan. I build games in Unity and write way t
 **[Food-Delivery](https://github.com/bilal-512/Food-Delivery)** — Full MERN stack food ordering app with JWT auth and Stripe payments. [Live demo here.](https://food-delivery-frontend-s2l9.onrender.com/)
 
 **[JokeHub](https://github.com/bilal-512/JokeHub)** — A RESTful API for storing and serving jokes. Built with Node, Express, and MongoDB.
-
-<p align="center">
-  <a href="https://github.com/bilal-512/CannonMergeGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=CannonMergeGame&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/bilal-512/Food-Delivery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=Food-Delivery&theme=github_dark&hide_border=true" />
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/bilal-512/JokeHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal-512&repo=JokeHub&theme=github_dark&hide_border=true" />
